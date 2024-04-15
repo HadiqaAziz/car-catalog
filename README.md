@@ -25,6 +25,6 @@ Express.js
 Axios
 HTML, CSS, JavaScript
 # Contributors
-Hadiqa Aziz - Lead Developer
+Hadiqa Aziz 
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
